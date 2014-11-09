@@ -2,8 +2,6 @@
   "name": "memorygame",
   "private": true,
   "dependencies": {
-    "jquery": "~1.11.1",
-    "underscore": "~1.7.0",
     "kineticjs": "~5.1.0"
   }
 }

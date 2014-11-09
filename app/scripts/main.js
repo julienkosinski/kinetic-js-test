@@ -34,7 +34,7 @@ window.onload = function() {
 			strokeWidth: 1
 		});
 		rectangle.on("click", function(){ 
-			color = this.fill(); 
+			color = this.fill();
 		});
 		layer.add(rectangle);
 	}
